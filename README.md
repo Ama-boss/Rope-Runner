@@ -9,14 +9,15 @@ As the **Electrical Lead**, I worked with the team to develop and test the elect
 
 ## The Robot
 
-<!-- Replace the filename below with the exact name of your uploaded robot photo. -->
-![Team Tesla's Rope Runner](rope-runner.jpg)
+![Picture of Final Prototype](Picture%20of%20final%20prototype.jpg)
 
-**Motion video:** [Watch Rope Runner in motion](rope-runner-motion.mp4)
+**Motion video:**
+
+[Watch the Video of the Finished Project](<Video%20of%20the%20proposed%20final%20prototype.mp4>)
 
 ## How It Works
 
-A DC geared motor drives a system of gears and linkages that creates an alternating crawling motion. Four rope-contact points help support the robot as it moves along the rope.
+A DC geared motor drives a system of gears and linkages that creates an alternating crawling motion. Four rope-contact points help support the robot as it moves along the rope.The electrical part involves using an ESP32 to control the motor through an L298N motor driver. The motor gets power from a 7.4V battery, while the ESP32 handles the control signals. We also used a rotary encoder to track movement and Bluetooth for wireless control.
 
 ## Electrical System
 
@@ -33,7 +34,7 @@ The camera was not used in our final robot, so image capture and transmission we
 
 We replaced cardboard gears with plastic gears to improve smoothness and synchronization. We also changed the chassis material after the cardboard prototype flexed, refined the linkage dimensions, and improved gear alignment to reduce friction and motor heating. Hook interference, chassis flex, and loose fasteners remained areas for improvement.
 
-This project taught me how closely electrical performance depends on mechanical alignment, secure mounting, and repeated testing. As Electrical Lead, I contributed to the power and motor-control system while collaborating with the team on troubleshooting and prototype development.
+This project taught me how closely electrical performance depends on mechanical alignment, secure mounting, and repeated testing. As Electrical Lead, I contributed to the power and motor-control system while collaborating with the team on troubleshooting and prototype development. It also taught me the value of effort, commitment to work, and consistency. This has to be one of my best projects yet. See the final report below.
 
 ## Final Report
 

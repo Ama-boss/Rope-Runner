@@ -13,7 +13,7 @@ As the **Electrical Lead**, I worked with the team to develop and test the elect
 
 **Motion video:**
 
-[Watch the Video of the Finished Project](<Video%20of%20the%20proposed%20final%20prototype.mp4>)
+[Watch the Video of the Finished Project(rope-runner-thumbnail.jpg)](<Video%20of%20the%20proposed%20final%20prototype.mp4>)
 
 ## How It Works
 
